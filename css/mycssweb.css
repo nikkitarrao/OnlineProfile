@@ -1,6 +1,7 @@
 h1{border-color: yellow;
   border-width: 5px;
   border-type: double;
+  font-size:50px;
   }
 h2{font-weight:bold;
  text-align:center;
