@@ -26,9 +26,15 @@ height:60px;
 }
 .table-firstrow{
  background-color:green;
- color:yellow
- text-align:center
+ color:yellow;
+ text-align:center;
  font-weight:bold;
+}
+.table td{
+ padding:12px 15px;
+}
+.table tbody tr{
+ border-bottom: 1px solid gray;
 }
 
 
