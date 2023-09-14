@@ -1,18 +1,19 @@
-#custom-border {border-color: black;
-  border-width: 5px;
-  border-type: double;
-  font-size:50px;
-  }
 h2{font-weight:bold;
  text-align:center;
  width:20%;
  height:40px;
  margin-left:550px;
 }
-.custom-h2-format{
- width:32%;
+.custom-h2-format{width:32%;
  margin-left:450px;
 }
+
+#heading-box{background-color:green;}
+.custom-border-heading{border-color: black;
+  border-width: 5px;
+  border-type: double;
+  font-size:50px;
+  }
 
 .black-border-color{
   border-color:black;
