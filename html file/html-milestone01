@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+<link rel="stylesheet" href= "mycss_web.css">
+<link rel="stylesheet" href= "mycss_tablet.css">
+    
+    <title>
+        Nikkita Tarrao's Online Profile
+    </title>
+    <link rel="icon" href="star.png">
+
+<style>
+    h2{
+        color:white;
+        background-color:black;
+        font-family:andale mono;
+    }
+</style>
+
+    
+</head>
+
+<body>
+<h1 style = "color:yellow; background-color:green; font-family:andale mono; text-align:center" >
+
+    Hello! Welcome to my Online Profile :}
+</h1>
+<hr>
+    <h2 id="about-me">
+       Basic Profile Information
+    </h2>
+    <h3>
+     A little bit about me:
+        </h3>
+    <p>
+        <ol> 
+        <li> Name:<span style="color:green"> Nikkita Tarrao </span> </li>
+        <li> Major: Computer Science </li>
+        <li> Age: 22 </li> 
+        <li> Picture of me: </li>
+        </ol>
+        <img src="nikki.png" width="20%"/>
+        </p>
+     <h2 id="education">
+       Education Summary
+    </h2>
+    <p>Hello! I graduated Laguardia highschool in 2019. I am now currently enrolled at St. John's University and am expected to graduate with my bachelor's degree in computer science in December 2024. </p>    
+     <h2 id="experience">
+       Work Experience and Internships
+    </h2>
+        <p>
+        <ul>
+            <li>Assistant Teacher at Manhasset Afterschool Xperience (M.A.X.) Program: September 2022 - Present </li>
+            <li>Cashier at Bayside Milk Farm: June 2019 - June 2022 </li>
+            <li>Pharmacy Technician at CVS: April 2021 - September 2021 </li>
+        </ul>
+        </p>
+     <h2 id="skills">
+       Programming Skills
+    </h2>
+        <p>I have a moderate level of experienve in Java. I am newer to the computer science program since I had only semi-recently transferred majors. So far I have only taken computer programming fundamentals I and II where I learned to code in Java. </p>
+    <h2 id="interests">
+       General Interests
+    </h2>
+        <p>I have always been interested in the arts and creating art since I was young. I mainly enjoy painting with oil paints and keeping a stetchbook. I hope to learn how to create art digitally in the future. I am also interested in volleyball, as I used to play for both my highschool team as well as the NYC Parks club team. I haven't played in a while, so I am a bit rusty, but recently I started to play during recreation hours here at St John's for fun. I also recently have wanted to learn how to skateboard. I don't have the best balance, and I am only a beginner, but one day I hope to ride nice and smooth (and maybe learn some tricks).  </p>
+    <h2 id="things">
+       My Favorite Things
+    </h2>
+    <div> 
+    <table>
+        <tr>
+            <th>
+               Favorite Song
+            </th>
+            <th>
+               Favorite Movie
+            </th>
+            <th>
