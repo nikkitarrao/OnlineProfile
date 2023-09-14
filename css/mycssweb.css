@@ -1,4 +1,4 @@
-#heading-box{background-color:green; width:95%;}
+#heading-box{background-color:green; width:97%;}
 
 h2{font-weight:bold; text-align:center; width:20%; height:40px; margin-left:550px;}
 
@@ -8,7 +8,7 @@ h2{font-weight:bold; text-align:center; width:20%; height:40px; margin-left:550p
 
 .black-border-color{
   border-color:black;
-  border-width: 5px;
+  border-width: 10px;
   border-type: solid;
 }
 .table{
