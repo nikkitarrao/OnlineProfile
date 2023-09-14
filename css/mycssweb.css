@@ -11,10 +11,9 @@ p{font-weight:bold; text-align:center; font-family:andale mono;}
 .black-border-color{
   border-color:black;
   border-width: 10px;
-  border-type: solid;
-}
+  border-type: solid;}
+
 .table{
-  
  border-collapse:collapse;
  margin-top: 25px;
  margin-bottom: 25px;
@@ -34,6 +33,9 @@ p{font-weight:bold; text-align:center; font-family:andale mono;}
 }
 .table tbody tr:nth-child(even){
  border-bottom: 1px solid lightgray;
+}
+.table tbody tr:last-of-type{
+ border-bottom: 1px solid green;
 }
 
 
