@@ -8,7 +8,7 @@ height:50px;
 }
 
 .black-border-color{
-  background-color:black;
+  border:3px black;
 }
 .table{
  border-collapse:collapse;
