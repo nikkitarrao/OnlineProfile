@@ -2,10 +2,13 @@ h2
 {font-weight:bold;
  text-align:center;
 }
-
-.green-border-color{
-  background-color:#FA9F6;
+.custom-size{
+width:20%;
+height:400px;
+}
+.black-border-color{
+  background-color:black;
 }
 
-.offwhite
+
   
