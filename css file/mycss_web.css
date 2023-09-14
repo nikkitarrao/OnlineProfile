@@ -1,5 +1,10 @@
 h1
-{font-weight:bold}
+{font-weight:bold;
+ text-align:center;
+}
 
+.border-color{
+  color:#FAF9F6
+}
 
   
