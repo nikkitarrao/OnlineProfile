@@ -1,28 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
-<link rel="stylesheet" href= "mycss_web.css">
-<link rel="stylesheet" href= "mycss_tablet.css">
-    
+        
     <title>
         Nikkita Tarrao's Online Profile
     </title>
     <link rel="icon" href="star.png">
-
-<style>
-    h2{
-        color:white;
-        background-color:black;
-        font-family:andale mono;
-    }
-</style>
-
     
 </head>
 
 <body>
-<h1 style = "color:yellow; background-color:green; font-family:andale mono; text-align:center" >
+<h1>
 
     Hello! Welcome to my Online Profile :}
 </h1>
