@@ -38,7 +38,7 @@ h2{font-weight:bold;
  padding:12px 15px;
  text-align:center;
 }
-.table tbody tr:nth-of-type(even){
+.table tbody tr:nth-child(even){
  border-bottom: 1px solid lightgray;
 }
 
