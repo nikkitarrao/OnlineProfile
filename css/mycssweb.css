@@ -4,7 +4,7 @@ h2{font-weight:bold; text-align:center; width:20%; height:40px; margin-left:550p
 
 .custom-h2-format{width:32%; margin-left:490px;}
 
-.custom-border-heading{border-color: black;border-width: 10px;border-type: solid;font-size:50px;}
+.custom-border-heading{border-color: black;border-width: 5px;border-type: double;font-size:50px;}
 
 .black-border-color{
   border-color:black;
