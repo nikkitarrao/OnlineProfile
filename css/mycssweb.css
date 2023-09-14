@@ -10,6 +10,12 @@ height:50px;
 .black-border-color{
   background-color:black;
 }
+.table{
+ border-collapse:collapse;
+ margin: 25px 0;
+ font-size: 0.9em;
+ min-width:400px;
+}
 
 
   
