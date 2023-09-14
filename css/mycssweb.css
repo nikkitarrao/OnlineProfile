@@ -1,4 +1,7 @@
-h1{border-color: yellow;}
+h1{border-color: yellow;
+  border-width: 5px;
+  border-type: double;
+  }
 h2{font-weight:bold;
  text-align:center;
  width:20%;
@@ -11,7 +14,9 @@ h2{font-weight:bold;
 }
 
 .black-border-color{
-  border:3px black;
+  border-color:black;
+  border-width: 5px;
+  border-type: solid;
 }
 .table{
  border-collapse:collapse;
