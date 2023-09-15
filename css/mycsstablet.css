@@ -1,1 +1,64 @@
+@media print{.screen_only{display:none;}}
+
+@media (min-width:760) and (max-width:960) {
+
+#heading-box{background-color:green; width:95%;}
+
+h2{font-weight:bold; color:yellow; text-align:center; width:20%; height:70px; margin-left:550px;padding:10px;}
+
+h3{font-family:andale mono; text-align:center;}
+
+.custom-h2-format{width:32%; margin-left:465px;}
+
+.custom-h2-format2{width:32%;margin-left:465px; height:40px;}
+
+.custom-border-heading{padding: 10px;margin: 10px; border: 5px double black;font-size:45px;}
+
+p{font-weight:bold; text-align:center; font-family:andale mono;}
+
+form{text-align:center;}
+
+ol{text-align:center; font-family:andale mono;}
+
+ul{text-align:center; font-family:andale mono;}
+
+.black-border-color{
+  border-color:black;
+  border-width: 10px;
+  border-type: solid;}
+
+.table>table{
+ border-collapse:collapse;
+ margin-top: 25px;
+ border: 2px solid black;
+ margin-bottom: 25px;
+ margin-left:250px;
+ font-size: 0.9em;
+ min-width:50%;
+}
+.table>table th{
+ background-color:green;
+ color:yellow;
+ text-align:center;
+ font-weight:bold;
+ border-bottom: 1px solid black;
+ border-left:1px solid black;
+ border-right:1px solid black;
+ font-family:andale mono;
+}
+.table>table td{
+ padding:12px 15px;
+ border-bottom: 1px solid black;
+ border-left:1px solid black;
+ border-right:1px solid black;
+ text-align:center;
+}
+.table>table tr:nth-child(even){
+ background-color:#F2F2F2;
+}
+.table tbody tr:hover{
+  background-color:yellow;
+  cursor:pointer;
+  }
+}
 
