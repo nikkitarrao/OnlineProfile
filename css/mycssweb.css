@@ -13,15 +13,16 @@ p{font-weight:bold; text-align:center; font-family:andale mono;}
   border-width: 10px;
   border-type: solid;}
 
-.table{
+.table>table{
  border-collapse:collapse;
+ border-style: solid;
  margin-top: 25px;
  margin-bottom: 25px;
  margin-left:200px;
  font-size: 0.9em;
- min-width:400px;
+ min-width:50%;
 }
-.table-firstrow{
+.table>table th{
  background-color:green;
  color:yellow;
  text-align:center;
@@ -35,7 +36,7 @@ p{font-weight:bold; text-align:center; font-family:andale mono;}
  border-bottom: 1px solid lightgray;
 }
 .table tbody tr:last-of-type{
- border-bottom: 1px solid green;
+ border-bottom: 2px solid green;
 }
 
 
