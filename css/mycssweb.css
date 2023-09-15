@@ -31,11 +31,16 @@ li{text-align:center; font-family:andale mono;}
  color:yellow;
  text-align:center;
  font-weight:bold;
- border: 1px solid black;
+ border-bottom: 1px solid black;
+ border-left:1px solid black;
+ border-right:1px solid black;
  font-family:andale mono;
 }
 .table>table td{
  padding:12px 15px;
+ border-bottom: 1px solid black;
+ border-left:1px solid black;
+ border-right:1px solid black;
  text-align:center;
 }
 .table>table tr:nth-child(even){
