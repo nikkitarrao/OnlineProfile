@@ -2,6 +2,10 @@
 
 @media (max-width: 759px) {
 
+ body{
+  background-color:yellow;
+}
+
 #heading-box{background-color:green; width:95%;}
 
 h2{font-weight:bold; color:yellow; text-align:center; width:20%; height:70px; margin-left:550px;padding:10px;}
