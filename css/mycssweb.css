@@ -1,7 +1,11 @@
 @media print{.screen_only{display:none;}}
 
 @media (min-width: 760px) { 
-
+  
+body{
+  background-color:#e3e1c9;
+}
+  
 #heading-box{background-color:green; width:95%;}
 
 #link{text-align: center}
