@@ -1,6 +1,6 @@
 @media print{.screen_only{display:none;}}
 
-@media (min-width:760) and (max-width:959) {
+@media (max-width: 759px) {
 
 #heading-box{background-color:green; width:95%;}
 
