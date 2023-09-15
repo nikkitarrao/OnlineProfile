@@ -1,6 +1,6 @@
 @media print{.screen_only{display:none;}}
 
-@media screen and (max-width: 759px) {
+@media (max-width: 759px) {
 
  body{
   background-color:#485B63;
