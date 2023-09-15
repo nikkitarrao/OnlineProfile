@@ -1,12 +1,12 @@
 @media print{.screen_only{display:none;}}
 
-@media (max-width: 759px) {
+@media screen and (max-width: 759px) {
 
  body{
   background-color:#485B63;
 }
 
-#heading-box{background-color:green; width:95%;}
+#heading-box{background-color:#e3e1c9; width:95%; color:black;}
 
 h2{font-weight:bold; color:yellow; text-align:center; width:20%; height:70px; margin-left:550px;padding:10px;}
 
