@@ -31,9 +31,9 @@ p{font-weight:bold; text-align:center; font-family:andale mono;}
 
 form{text-align:center;}
 
-ol li{text-align:center; font-family:andale mono;}
+ol li{text-align:center; font-family:andale mono;list-style-position: inside;}
 
-ul li{text-align:center; font-family:andale mono;}
+ul li{text-align:center; font-family:andale mono;list-style-position: inside;}
 
 .black-border-color{
   border-color:black;
