@@ -1,3 +1,5 @@
+@media (max-width:960px) {
+
 #heading-box{background-color:green; width:95%;}
 
 h2{font-weight:bold; color:yellow; text-align:center; width:20%; height:70px; margin-left:550px;padding:10px;}
@@ -53,5 +55,5 @@ li{text-align:center; font-family:andale mono;}
 .table tbody tr:hover{
   background-color:yellow;
   cursor:pointer;
+  }
 }
-  
