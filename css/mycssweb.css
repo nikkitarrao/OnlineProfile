@@ -1,6 +1,6 @@
 #heading-box{background-color:green; width:95%;}
 
-h2{font-weight:bold; text-align:center; width:20%; height:40px; margin-left:550px;color:yellow;}
+h2{font-weight:bold; color:yellow; text-align:center; width:20%; height:40px; margin-left:550px;}
 
 .custom-h2-format{width:32%; margin-left:465px;}
 
@@ -18,7 +18,7 @@ p{font-weight:bold; text-align:center; font-family:andale mono;}
  border-style: solid;
  margin-top: 25px;
  margin-bottom: 25px;
- margin-left:200px;
+ margin-left:250px;
  font-size: 0.9em;
  min-width:50%;
 }
@@ -27,15 +27,16 @@ p{font-weight:bold; text-align:center; font-family:andale mono;}
  color:yellow;
  text-align:center;
  font-weight:bold;
- border-width: 1px;
+ border: 1px solid black;
  font-family:andale mono;
 }
-.table>td{
+.table>table td{
  padding:12px 15px;
  text-align:center;
 }
-.table tbody tr:nth-child(even){
+.table>table tr:nth-child(even){
  border-bottom: 1px solid lightgray;
+ background-color:
 }
 .table tbody tr:last-of-type{
  border-bottom: 2px solid green;
