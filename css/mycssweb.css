@@ -17,8 +17,8 @@ p{font-weight:bold; text-align:center; font-family:andale mono;}
 
 .table>table{
  border-collapse:collapse;
- border-style: solid;
  margin-top: 25px;
+ border: 2px solid black;
  margin-bottom: 25px;
  margin-left:250px;
  font-size: 0.9em;
@@ -37,8 +37,7 @@ p{font-weight:bold; text-align:center; font-family:andale mono;}
  text-align:center;
 }
 .table>table tr:nth-child(even){
- border-bottom: 1px solid lightgray;
- background-color:
+ background-color:lightgray;
 }
 .table tbody tr:last-of-type{
  border-bottom: 2px solid green;
