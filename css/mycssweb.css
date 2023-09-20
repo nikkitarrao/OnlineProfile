@@ -35,7 +35,7 @@ ol li{text-align:center; font-family:andale mono;list-style-position: inside;}
 
 ul li{text-align:center; font-family:andale mono;list-style-position: inside;}
 
-video{width: 50;}
+.video{width: 50px;}
 
 .black-border-color{
   border-color:black;
