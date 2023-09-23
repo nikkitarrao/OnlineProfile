@@ -10,6 +10,8 @@ body{
 
 #link{text-align: center}
 
+.video{width: 250px; height: 150px}
+
 .center {
   display: block;
   margin-left: auto;
